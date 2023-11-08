@@ -1,3 +1,5 @@
+#Handwritten-Digit-Recognition-Using-MNIST-Dataset
+
 Handwritten digit recognition is the task of automatically identifying and classifying handwritten digits from images. It is a challenging task in computer vision, but it has many practical applications, such as postal automation, bank check processing, and medical document analysis.
 
 MNIST Dataset
